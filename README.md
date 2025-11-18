@@ -35,9 +35,15 @@ Arrow keys to move UP / DOWN / LEFT / RIGHT
 ✔ Colored markers for inside & outside points
 
 🛠 Technologies Used
+
 Component	Technology
+
 Programming Language	Python 3.13 / 3.14
+
 Algorithm	Convex Hull (Divide & Conquer)
+
 Visualization	Matplotlib
+
 Simulation	Pygame-CE
+
 Geometry Logic	Point-in-Polygon (Ray Casting Method)
